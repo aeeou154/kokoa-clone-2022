@@ -1,0 +1,15 @@
+.caution {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1.5px solid tomato;
+  margin-left: 3px;
+}
+
+.caution i {
+  font-size: 7px;
+  color: tomato;
+}
